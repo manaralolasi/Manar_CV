@@ -1,51 +1,14 @@
 ---
-# Manar Alolasi
-DevOps trainee at Saudi Digital Academy Bootcamp| Mawhiba Alumni | IoT | UI UX | Researcher | Inventor| Cybersecurity |CIS
-
-<div id="webaddress">
-<a href="manaralalasi2030@gmail.com">manaralalasi2030@gmail.com</a>
-</div>
+#  5 projects in the DevOps bootcamp done by Manar Alolasi
 
 
-## Currently
-
-DevOps trainee at Saudi Digital Academy Bootcamp
-
-
-
-## Education
-
-Bachelor's degree in Computer
-Information Systems
-
-Taibah University
-
-## Awards
-The 50 best ideas in the MiSK Community Innovation Diwan
-competition
-
-
-Participation in the Hackathon Apps for Kids (Kidsthoon)
-
-
-Third place in the Initiatives Hackathon
-
-First place in the first business plan competition for the
-startup industry at Taibah University
-
-First place in the first forum for female preparatory year
-students
-
-Fourth place in the Major General Omar Al Nasser creativity
-competition
-
-First place in the competition of future scholars
-
-Fifth place in the National Olympiad for scientific creativity
-
-
+1- Build a Java-Maven Application with Jenkins 
+2- Build a .NET Application with Jenkins 
+3- Create a Dashboard in AWS CloudWatch
+4- Create a Billing Alarm in AWS CloudWatch
+5- Execute Selenium in AWS Code Pipeline
 
 
 <!-- ### Footer
 
-Last updated: June 2022 -->
+Last updated: aug 2022 -->
