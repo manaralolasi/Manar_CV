@@ -48,4 +48,4 @@ Fifth place in the National Olympiad for scientific creativity
 
 <!-- ### Footer
 
-Last updated: June 2022 -->
+Last updated: AUG 2022 -->
